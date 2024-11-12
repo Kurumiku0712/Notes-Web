@@ -248,7 +248,7 @@ DOM（Document Object Model, 文档对象模型）是**浏览器为HTML文档提
 
 ![DOM HTML tree](https://www.runoob.com/images/htmltree.gif)
 
-![image-20241109122508135](D:\Web\assets\image-20241109122508135.png)
+![image-20241109122508135](assets/image-20241109122508135.png)
 
 
 
